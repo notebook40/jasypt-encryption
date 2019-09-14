@@ -1,4 +1,4 @@
-@Library("notebook40@feature/common-pipeline") _
+@Library("notebook40@master") _
 
 commonPipeline(
     "developer": "notebook40",
