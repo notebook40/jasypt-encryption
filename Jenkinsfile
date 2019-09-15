@@ -1,3 +1,3 @@
-@Library("notebook40@feature/default-image-name") _
+@Library("notebook40@feature/0.2.0") _
 
 commonPipeline()
