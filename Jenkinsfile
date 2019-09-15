@@ -1,6 +1,3 @@
-@Library("notebook40@master") _
+@Library("notebook40@default-image-name") _
 
-commonPipeline(
-    "developer": "notebook40",
-    "imageName": "notebook40/jasypt-encryption"
-)
+commonPipeline()
